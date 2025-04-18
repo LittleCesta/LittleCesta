@@ -9,7 +9,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      # 👇 Este passo faz o clone do repositório (ESSENCIAL)
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: LittleCesta
           outputs: |
