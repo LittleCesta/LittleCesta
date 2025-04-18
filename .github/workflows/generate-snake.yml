@@ -9,7 +9,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # 👇 Este passo faz o clone do repositório (ESSENCIAL)
       - name: Checkout
         uses: actions/checkout@v3
 
@@ -21,10 +20,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "🐍 Atualiza animação da cobrinha"
-          add: "dist/*.svg"
+      - name: Push to output branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git checkout -b output
+          git add dist/
+          git commit -m "Atualiza snake"
+          git push origin output --force
