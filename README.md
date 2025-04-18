@@ -26,11 +26,6 @@
 
 - 🔥 [Desafios JS em 7 Dias](https://github.com/LittleCesta/desafios-js-7-dias)
 
-## 🧩 Fun fact
-
-🎮 Eu também curto programar joguinhos e explorar ideias malucas com JS.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleCesta&show_icons=true&theme=dracula)
 
-
-![Snake dark](https://github.com/LittleCesta/LittleCesta/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
