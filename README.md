@@ -33,4 +33,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleCesta&show_icons=true&theme=dracula)
 
 
-![Snake animation](https://github.com/LittleCesta/LittleCesta/blob/output/github-contribution-grid-snake.svg)
+![Snake dark](https://github.com/LittleCesta/LittleCesta/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
