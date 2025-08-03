@@ -25,7 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=#40B5A4)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ## ✨ Um pouco dos meus projetos
