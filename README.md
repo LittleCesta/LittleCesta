@@ -17,16 +17,16 @@
 ## 🚀 Tecnologias que uso
 
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=0076c6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ## ✨ Um pouco dos meus projetos
 
