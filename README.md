@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor apaixonado por JavaScript, desafios de código e boas ideias.
 
-![Profile Views](https://komarev.com/ghpvc/?username=LittleCesta&color=black&style=flat-square&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=LittleCesta&color=000000&style=flat-square&label=Profile%20Views)
 
 ### 🎯 Atualmente focado em:
 - Aprimorar meus projetos em JavaScript
