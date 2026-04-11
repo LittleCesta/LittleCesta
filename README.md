@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Desenvolvedor apaixonado por JavaScript, desafios de código e boas ideias.<br><br>Atualmente focado em:<br><br>Aprimorar meus projetos em JavaScript<br>Aprender mais sobre programação<br>Compartilhar conhecimento com a comunidade<br>Aprendendo sobre o desenvolvimento de RPAs<br><br>Como me encontrar:</p>
+<p align="left">Desenvolvedor apaixonado por JavaScript, desafios de código e boas ideias.<br><br>Atualmente focado em:<br><br>Aprimorar meus projetos em JavaScript<br>Aprender mais sobre programação<br>Compartilhar conhecimento com a comunidade<br>Aprendendo sobre o desenvolvimento de RPAs. Trabalho atualmente automatizando processos manuais para otimizar e dimnuir o SLA do setor. Cerca de 70% das tarefas manuais feitas pelo setor já estão automatizadas.<br><br>Como me encontrar:</p>
 
 ###
 
