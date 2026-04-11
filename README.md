@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Olá! Sou César — Especialista em RPA e Desenvolvedor Web!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Ol%C3%A1!+Sou+C%C3%A9sar+%E2%80%94+Especialista+em+RPA+e+Desenvolvedor+Web!)](https://git.io/typing-svg)
 
 ###
 
