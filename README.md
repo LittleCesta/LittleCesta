@@ -9,8 +9,7 @@
 ###
 
 <h3 align="left">
-  <img src="https://openmoji.org/data/color/svg/1F4BC.svg" width="30" height="30" align="center" />
-  Quais minhas responsabilidades atualmente
+  Quais minhas responsabilidades atualmente:
 </h3>
 
 <p align="left">
@@ -22,8 +21,7 @@
 ###
 
 <h3 align="left">
-  <img src="https://openmoji.org/data/color/svg/1F3AF.svg" width="28" height="28" align="center" />
-  Atualmente focado em
+  Atualmente focado em: 
 </h3>
 
 <p align="left">
@@ -51,8 +49,7 @@ Vamos nos conectar? Me encontre no LinkedIn
 ###
 
 <h3 align="left">
-  <img src="https://openmoji.org/data/color/svg/1F4BB.svg" width="28" height="28" align="center" />
-  Tecnologias que uso
+  Tecnologias que uso:
 </h3>
 
 ###
